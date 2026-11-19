@@ -1,0 +1,7 @@
+"Melanoma_Type","Group","Pooled_Pct","CI_low_Pct","CI_high_Pct","PI_low_Pct","PI_high_Pct","I2","tau2","Method","n_studies","Row_Type"
+"Acral","NRAS",81.3084112149533,72.7929562866985,87.6122027510905,NA,NA,0,0,"rma.glmm (binomial-normal GLMM)",9,"Meta-analyzed"
+"Cutaneous","NRAS",91.6744744618345,84.8766743846622,95.575987917714,NA,NA,15.4337625262037,0.0956632825387751,"rma.glmm (binomial-normal GLMM)",5,"Meta-analyzed"
+"Acral","KRAS",10.2803738317912,5.78482636359457,17.6163008267147,NA,NA,0,0,"rma.glmm (binomial-normal GLMM)",9,"Meta-analyzed"
+"Cutaneous","KRAS",1.71411541186303,0.181480376366422,14.3317483885992,NA,NA,60.3827278378518,1.69998473198466,"rma.glmm (binomial-normal GLMM)",5,"Meta-analyzed"
+"Acral","HRAS",6.45136681181036,1.9939996012302,18.9464630894202,NA,NA,35.1342877979281,0.553641994608132,"rma.glmm (binomial-normal GLMM)",9,"Meta-analyzed"
+"Cutaneous","HRAS",4.92957746479064,2.36808105907716,9.97859902961286,NA,NA,0,0,"rma.glmm (binomial-normal GLMM)",5,"Meta-analyzed"

@@ -1,0 +1,43 @@
+"Study_cohort","Melanoma_Type","Gene","n","N_RAS","Pct"
+"Basurto-Lozada et al., 2026","Acral","NRAS",12,17,70.5882352941177
+"Basurto-Lozada et al., 2026","Acral","KRAS",2,17,11.7647058823529
+"Basurto-Lozada et al., 2026","Acral","HRAS",3,17,17.6470588235294
+"Farshidfar et al., 2022","Acral","NRAS",17,21,80.9523809523809
+"Farshidfar et al., 2022","Acral","KRAS",0,21,0
+"Farshidfar et al., 2022","Acral","HRAS",4,21,19.047619047619
+"Farshidfar et al., 2022","Cutaneous","NRAS",38,41,92.6829268292683
+"Farshidfar et al., 2022","Cutaneous","KRAS",1,41,2.4390243902439
+"Farshidfar et al., 2022","Cutaneous","HRAS",2,41,4.8780487804878
+"Hayward et al., 2017","Acral","NRAS",4,5,80
+"Hayward et al., 2017","Acral","KRAS",0,5,0
+"Hayward et al., 2017","Acral","HRAS",1,5,20
+"Hayward et al., 2017","Cutaneous","NRAS",36,37,97.2972972972973
+"Hayward et al., 2017","Cutaneous","KRAS",0,37,0
+"Hayward et al., 2017","Cutaneous","HRAS",1,37,2.7027027027027
+"Hodis et al., 2012","Cutaneous","NRAS",23,24,95.8333333333333
+"Hodis et al., 2012","Cutaneous","KRAS",0,24,0
+"Hodis et al., 2012","Cutaneous","HRAS",1,24,4.16666666666667
+"Liang et al., 2017","Acral","NRAS",3,4,75
+"Liang et al., 2017","Acral","KRAS",1,4,25
+"Liang et al., 2017","Acral","HRAS",0,4,0
+"Liu et al., 2024","Acral","NRAS",11,14,78.5714285714286
+"Liu et al., 2024","Acral","KRAS",3,14,21.4285714285714
+"Liu et al., 2024","Acral","HRAS",0,14,0
+"Newell et al., 2022","Acral","NRAS",12,13,92.3076923076923
+"Newell et al., 2022","Acral","KRAS",1,13,7.69230769230769
+"Newell et al., 2022","Acral","HRAS",0,13,0
+"Newell et al., 2022","Cutaneous","NRAS",26,31,83.8709677419355
+"Newell et al., 2022","Cutaneous","KRAS",4,31,12.9032258064516
+"Newell et al., 2022","Cutaneous","HRAS",1,31,3.2258064516129
+"Shi et al., 2022","Acral","NRAS",9,11,81.8181818181818
+"Shi et al., 2022","Acral","KRAS",1,11,9.09090909090909
+"Shi et al., 2022","Acral","HRAS",1,11,9.09090909090909
+"TCGA, Cell 2015","Cutaneous","NRAS",7,9,77.7777777777778
+"TCGA, Cell 2015","Cutaneous","KRAS",0,9,0
+"TCGA, Cell 2015","Cutaneous","HRAS",2,9,22.2222222222222
+"Wang et al., 2024","Acral","NRAS",6,7,85.7142857142857
+"Wang et al., 2024","Acral","KRAS",1,7,14.2857142857143
+"Wang et al., 2024","Acral","HRAS",0,7,0
+"Zhang et al., 2025","Acral","NRAS",13,15,86.6666666666667
+"Zhang et al., 2025","Acral","KRAS",2,15,13.3333333333333
+"Zhang et al., 2025","Acral","HRAS",0,15,0

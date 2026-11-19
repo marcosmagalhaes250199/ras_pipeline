@@ -1,0 +1,1160 @@
+ï»¿Study_cohort	Patient_ID	Melanoma_Type	Genetic_Classification	RAS_specific	NRAS	KRAS	HRAS	BRAF	NF1	KIT
+Basurto-Lozada et al., 2026	PD40962	Acral	4WT						Deleted	
+Basurto-Lozada et al., 2026	PD40986	Acral	4WT						Deleted	
+Basurto-Lozada et al., 2026	PD51932	Acral	4WT						Deleted	
+Basurto-Lozada et al., 2026	PD41020	Acral	RAS	NRAS	Q61L				focal deletion	
+Farshidfar et al., 2022	YUQUANT	Acral	KIT							T574delinsTP, T570delinsTP
+Farshidfar et al., 2022	SPO	Cutaneous	4WT							P573delinsPYD, P577delinsPYD
+Farshidfar et al., 2022	DEBIT	Cutaneous	RAS	NRAS	Q61H				60_61del	
+Farshidfar et al., 2022	WAND	Cutaneous	4WT		G691V, G543V		E278K		693_696del	
+Hodis et al., 2012	ME032	Cutaneous	KIT						T1905I	Y570_L576del
+Liang et al., 2017	P-26	Acral	4WT						HOMDEL	
+Liang et al., 2017	P-31	Acral	4WT						HOMDEL	
+Newell et al., 2022	MELA_0630	Cutaneous	4WT					T599_V600insTT		
+Shi et al., 2022	M1055	Acral	NF1						K1436E	
+Basurto-Lozada et al., 2026	PD41896	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51940	Acral	KIT							L576P
+Basurto-Lozada et al., 2026	PD51952	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40956	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41026	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41029	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41907	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40952	Acral	Multi-hit				G13S		Frameshift insertion	
+Basurto-Lozada et al., 2026	PD40957	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40961	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD40963	Acral	RAS	NRAS	G12R					
+Basurto-Lozada et al., 2026	PD40964	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40965	Acral	KIT							K642E
+Basurto-Lozada et al., 2026	PD40966	Acral	KIT							K642E
+Basurto-Lozada et al., 2026	PD40967	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40968	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40969	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40970	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40971	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40972	Acral	4WT					L597R		
+Basurto-Lozada et al., 2026	PD40973	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40974	Acral	RAS	HRAS			G12D			
+Basurto-Lozada et al., 2026	PD40976	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40978	Acral	RAS	KRAS		G12D				
+Basurto-Lozada et al., 2026	PD40980	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40982	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40983	Acral	KIT							K642E
+Basurto-Lozada et al., 2026	PD40984	Acral	KIT							K642E
+Basurto-Lozada et al., 2026	PD40985	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD40987	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD40988	Acral	RAS	KRAS		G12D				
+Basurto-Lozada et al., 2026	PD40989	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40990	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40994	Acral	NF1						Frameshift insertion	
+Basurto-Lozada et al., 2026	PD40996	Acral	4WT							
+Basurto-Lozada et al., 2026	PD40997	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41000	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41001	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41002	Acral	RAS	NRAS	Q61R					
+Basurto-Lozada et al., 2026	PD41004	Acral	RAS	NRAS	Q61K					
+Basurto-Lozada et al., 2026	PD41011	Acral	4WT							D820Y
+Basurto-Lozada et al., 2026	PD41017	Acral	Multi-hit		G13D				E2207*	V559A
+Basurto-Lozada et al., 2026	PD41021	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41023	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41025	Acral	RAS	NRAS	Q61R					
+Basurto-Lozada et al., 2026	PD41027	Acral	RAS	NRAS	Q61K					
+Basurto-Lozada et al., 2026	PD41030	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41032	Acral	NF1						Frameshift deletion	
+Basurto-Lozada et al., 2026	PD41033	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41035	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41036	Acral	KIT							L576P
+Basurto-Lozada et al., 2026	PD41038	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41039	Acral	KIT							K642E
+Basurto-Lozada et al., 2026	PD41043	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41044	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41045	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41046	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41895	Acral	RAS	NRAS	G12D					
+Basurto-Lozada et al., 2026	PD41900	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41901	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41905	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41906	Acral	4WT							In Frame Deletion
+Basurto-Lozada et al., 2026	PD41909	Acral	RAS	NRAS	Q61R					
+Basurto-Lozada et al., 2026	PD41910	Acral	4WT							R634Q
+Basurto-Lozada et al., 2026	PD41912	Acral	4WT							In Frame Deletion
+Basurto-Lozada et al., 2026	PD41913	Acral	RAS	NRAS	Q61R					
+Basurto-Lozada et al., 2026	PD41915	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD41916	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41920	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41921	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41923	Acral	4WT							
+Basurto-Lozada et al., 2026	PD41927	Acral	NF1						Frameshift insertion	
+Basurto-Lozada et al., 2026	PD41928	Acral	KIT							L576P
+Basurto-Lozada et al., 2026	PD41930	Acral	KIT							L576P
+Basurto-Lozada et al., 2026	PD41932	Acral	RAS	HRAS			G13V			
+Basurto-Lozada et al., 2026	PD41939	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51928	Acral	RAS	NRAS	G12R					
+Basurto-Lozada et al., 2026	PD51929	Acral	RAS	NRAS	Q61R					
+Basurto-Lozada et al., 2026	PD51930	Acral	BRAF					V600E		
+Basurto-Lozada et al., 2026	PD51939	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51948	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51951	Acral	RAS	NRAS	G12D					
+Basurto-Lozada et al., 2026	PD51969	Acral	NF1						Y1292*	
+Basurto-Lozada et al., 2026	PD51972	Acral	KIT							L576P
+Basurto-Lozada et al., 2026	PD51978	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51979	Acral	RAS	HRAS			G13V			
+Basurto-Lozada et al., 2026	PD51982	Acral	4WT							
+Basurto-Lozada et al., 2026	PD51993	Acral	4WT							
+Farshidfar et al., 2022	HAMA	Cutaneous	RAS	NRAS	D1090H, D949H, Q61K					
+Farshidfar et al., 2022	VITRE	Cutaneous	RAS	NRAS	F547Y, F695Y, Q61H	G229D, G229S	P401L, S125F, D238N	P207L		
+Farshidfar et al., 2022	HEB-1	Acral	4WT							
+Farshidfar et al., 2022	HT-10	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	SCA	Cutaneous	RAS	NRAS	H539Y, H391Y, Q61L					
+Farshidfar et al., 2022	FLA	Cutaneous	RAS	NRAS	L26F, Q61K					
+Farshidfar et al., 2022	PLA	Cutaneous	RAS	NRAS	P647S, P499S, Q61K	Q305X				
+Farshidfar et al., 2022	HT-12	Acral	4WT							
+Farshidfar et al., 2022	DEDE	Cutaneous	RAS	NRAS	Q61H					
+Farshidfar et al., 2022	GUST	Cutaneous	RAS	NRAS	Q61H				.	
+Farshidfar et al., 2022	ROS	Cutaneous	RAS	NRAS	Q61H					
+Farshidfar et al., 2022	HT-13	Acral	KIT							V556D, V560D
+Farshidfar et al., 2022	HT-14	Acral	KIT							N651K, N655K
+Farshidfar et al., 2022	HT-15	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	BIG	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	CAV	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	FERY	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	FIG	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	GEMA	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	GISMO	Cutaneous	RAS	NRAS	Q61K		S62F, S52F			L160V
+Farshidfar et al., 2022	LAXER	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	LYO	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	QALE	Cutaneous	RAS	NRAS	Q61K			E586K		
+Farshidfar et al., 2022	SMI	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	TRIL	Cutaneous	RAS	NRAS	Q61K		E95K			
+Farshidfar et al., 2022	WIA	Cutaneous	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	HT-18	Acral	RAS	NRAS	Q61R					E749Q, E745Q
+Farshidfar et al., 2022	HT-2	Acral	KIT							K642E, K638E
+Farshidfar et al., 2022	HT-20	Acral	4WT							E33D
+Farshidfar et al., 2022	HT-26	Acral	RAS	NRAS	G12D					
+Farshidfar et al., 2022	HT-3	Acral	4WT							
+Farshidfar et al., 2022	HT-37	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	HT-4	Acral	KIT							L576P, L572P
+Farshidfar et al., 2022	HT-6	Acral	4WT							
+Farshidfar et al., 2022	HT-8	Acral	4WT							
+Farshidfar et al., 2022	HT-9	Acral	4WT							
+Farshidfar et al., 2022	NP-100	Acral	4WT							
+Farshidfar et al., 2022	NP-106	Acral	4WT							
+Farshidfar et al., 2022	NP-111	Acral	4WT							
+Farshidfar et al., 2022	NP-113	Acral	4WT							
+Farshidfar et al., 2022	NP-116	Acral	BRAF					V600E		
+Farshidfar et al., 2022	NP-123	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	NP-126	Acral	4WT							
+Farshidfar et al., 2022	NP-157	Acral	4WT			V423G				
+Farshidfar et al., 2022	NP-161	Acral	4WT							
+Farshidfar et al., 2022	NP-17	Acral	4WT							
+Farshidfar et al., 2022	NP-244	Acral	BRAF					V600E		
+Farshidfar et al., 2022	NP-26	Acral	4WT							
+Farshidfar et al., 2022	NP-33	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	NP-38	Acral	4WT							
+Farshidfar et al., 2022	NP-41	Acral	4WT							
+Farshidfar et al., 2022	NP-57	Acral	4WT							
+Farshidfar et al., 2022	NP-58	Acral	KIT							L576P, L572P
+Farshidfar et al., 2022	NP-59	Acral	4WT							
+Farshidfar et al., 2022	NP-92	Acral	4WT							
+Farshidfar et al., 2022	XY-1	Acral	RAS	HRAS			G12S			
+Farshidfar et al., 2022	XY-10	Acral	4WT							
+Farshidfar et al., 2022	XY-14	Acral	4WT							
+Farshidfar et al., 2022	XY-15	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	XY-16	Acral	4WT							
+Farshidfar et al., 2022	XY-17	Acral	NF1						Q369X	
+Farshidfar et al., 2022	XY-19	Acral	NF1						G629R	
+Farshidfar et al., 2022	XY-2	Acral	RAS	HRAS			Q61H			
+Farshidfar et al., 2022	XY-20	Acral	4WT							
+Farshidfar et al., 2022	XY-22	Acral	NF1						E1384fs	
+Farshidfar et al., 2022	XY-23	Acral	4WT							
+Farshidfar et al., 2022	XY-25	Acral	KIT							K642E, K638E
+Farshidfar et al., 2022	XY-3	Acral	4WT							
+Farshidfar et al., 2022	XY-4	Acral	KIT							K642E, K638E
+Farshidfar et al., 2022	XY-59	Acral	4WT							
+Farshidfar et al., 2022	XY-61	Acral	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	XY-69	Acral	4WT							Y642D, Y646D
+Farshidfar et al., 2022	XY-7	Acral	4WT							
+Farshidfar et al., 2022	XY-72	Acral	4WT							
+Farshidfar et al., 2022	XY-73	Acral	4WT							
+Farshidfar et al., 2022	XY-8	Acral	4WT							
+Farshidfar et al., 2022	XY-81	Acral	BRAF					V600E		
+Farshidfar et al., 2022	XY-9	Acral	4WT							
+Farshidfar et al., 2022	YUBOT	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	YUCLI	Acral	4WT							
+Farshidfar et al., 2022	YUCRATE	Acral	4WT					G469A		
+Farshidfar et al., 2022	YUECO	Acral	4WT							
+Farshidfar et al., 2022	YUELSA	Acral	KIT							N818K, N822K
+Farshidfar et al., 2022	YUFARM	Acral	4WT							
+Farshidfar et al., 2022	YUFISO	Acral	RAS	HRAS			Q61H			
+Farshidfar et al., 2022	YUGLORY	Acral	4WT							
+Farshidfar et al., 2022	YUGUTTA	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	YUHIMO	Acral	4WT							
+Farshidfar et al., 2022	YUJASMIN	Acral	4WT							
+Farshidfar et al., 2022	YUMUDE	Acral	KIT							V559D, V555D
+Farshidfar et al., 2022	YUNEON	Acral	4WT							
+Farshidfar et al., 2022	YUNIS	Acral	RAS	HRAS			Q61K			
+Farshidfar et al., 2022	YUNUVO	Acral	4WT							
+Farshidfar et al., 2022	YUPAO	Acral	4WT							
+Farshidfar et al., 2022	YUPLUM	Acral	4WT				S169I, S159I			
+Farshidfar et al., 2022	YUPRETE	Acral	4WT							
+Farshidfar et al., 2022	YUROSIE	Acral	BRAF					V600E		
+Farshidfar et al., 2022	YURUB	Acral	KIT							N818Y, N822Y
+Farshidfar et al., 2022	YURYNE	Acral	4WT							
+Farshidfar et al., 2022	YUSAG	Acral	KIT							K642E, K638E
+Farshidfar et al., 2022	YUSEEP	Acral	4WT							
+Farshidfar et al., 2022	YUSOUTH	Acral	RAS	NRAS	G12V					
+Farshidfar et al., 2022	YUSUSA	Acral	4WT							
+Farshidfar et al., 2022	YUTAUR	Acral	4WT							
+Farshidfar et al., 2022	YUTOK	Acral	RAS	NRAS	Q61H					
+Farshidfar et al., 2022	BILI	Cutaneous	4WT							
+Farshidfar et al., 2022	BLAST	Cutaneous	4WT							
+Farshidfar et al., 2022	BOW	Cutaneous	4WT							
+Farshidfar et al., 2022	CANDY	Cutaneous	4WT							
+Farshidfar et al., 2022	CAS	Cutaneous	4WT			Q22K				
+Farshidfar et al., 2022	DAB	Cutaneous	4WT			A18V			F1464L, F1443L	
+Farshidfar et al., 2022	GAL	Cutaneous	4WT							
+Farshidfar et al., 2022	GURT	Cutaneous	4WT							
+Farshidfar et al., 2022	HELIX	Cutaneous	4WT							
+Farshidfar et al., 2022	LAN	Cutaneous	4WT		T754I, T613I		W129X, G111E	N581T	P1084S, .	
+Farshidfar et al., 2022	MER	Cutaneous	4WT			E92K, R321X				
+Farshidfar et al., 2022	MORF	Cutaneous	4WT							
+Farshidfar et al., 2022	PAT	Cutaneous	4WT		L219F, L71F	V374D, V374I			L844F	
+Farshidfar et al., 2022	REIL	Cutaneous	4WT		D154E	G201fs, G344fs			.	
+Farshidfar et al., 2022	ROC	Cutaneous	4WT		S50F, S198F		G70E			
+Farshidfar et al., 2022	ROL	Cutaneous	4WT		S1101N, S1242N		G29E, P454L			G470E
+Farshidfar et al., 2022	SIV	Cutaneous	4WT						L626F	
+Farshidfar et al., 2022	STUDY	Cutaneous	4WT							
+Farshidfar et al., 2022	VEME	Cutaneous	4WT		T50I	G428E	E103K	G466V		
+Farshidfar et al., 2022	VIXEN	Cutaneous	4WT							
+Farshidfar et al., 2022	WAGE	Cutaneous	4WT			P723L, P724L, P722L, P694L				
+Farshidfar et al., 2022	ZIRG	Cutaneous	4WT							
+Farshidfar et al., 2022	BAIX	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	BAN	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	CAR	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	CHIME	Cutaneous	BRAF					V600E, V600M	K1714N, K1693N	
+Farshidfar et al., 2022	CLAT	Cutaneous	BRAF		P702S, P843S			V600E, V600M	S2475F, S2496F	
+Farshidfar et al., 2022	COLA	Cutaneous	BRAF					V600E	R652C	
+Farshidfar et al., 2022	CONGA	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	COVE	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	COW	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	CYLO	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	DARE	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	DIVI	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	DON	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	EPIC	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	FAND	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	GAFFE	Cutaneous	BRAF				.	V600E, V600M		
+Farshidfar et al., 2022	GROVE	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	HAM	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	JOIN	Cutaneous	BRAF					V600E	S2170F, S2191F	
+Farshidfar et al., 2022	KAE	Cutaneous	BRAF			G65R		V600E	D430E	
+Farshidfar et al., 2022	KIL	Cutaneous	BRAF					S732F, V600E		
+Farshidfar et al., 2022	KIRBY	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	KIVA	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	KSI	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	LAD	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	MAR	Cutaneous	BRAF					V600G, V600M		
+Farshidfar et al., 2022	MOYA	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	MYNA	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	NACK	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	NOL	Cutaneous	BRAF			G716E, G715E, G714E, G686E		V600E, V600M		
+Farshidfar et al., 2022	PEET	Cutaneous	BRAF			S270N, S270R		V600E		
+Farshidfar et al., 2022	PER	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	PRO	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	PTER	Cutaneous	BRAF			P269L		V600E, V600M		
+Farshidfar et al., 2022	QUEST	Cutaneous	BRAF					P731S, K601N		
+Farshidfar et al., 2022	RAISE	Cutaneous	BRAF					V600G, V600M		
+Farshidfar et al., 2022	RDE	Cutaneous	BRAF			R88K		V600E		
+Farshidfar et al., 2022	RISA	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	SAMIR	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	SIM	Cutaneous	BRAF				S160T	V600E		
+Farshidfar et al., 2022	SIPU	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	SOP	Cutaneous	BRAF		I1089I, I1230I		G140R	V600E		
+Farshidfar et al., 2022	STREP	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	SWI	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	TAS	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	TOV	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	VARNA	Cutaneous	BRAF					V600E, V600M		
+Farshidfar et al., 2022	ZEPO	Cutaneous	BRAF					V600E		
+Farshidfar et al., 2022	BAY	Cutaneous	KIT			A506V, A505V		F707L	R1000C, P2696S, P2717S	L576P, L572P
+Farshidfar et al., 2022	KLON	Cutaneous	KIT		P793S, P934S, R1012X, R871X	S90C	D120N, P334S			V555A, V559A
+Farshidfar et al., 2022	GARET	Cutaneous	Multi-hit		Q61L				R1204W, E1458K, E1437K	
+Farshidfar et al., 2022	KARN	Cutaneous	Multi-hit		S585F, S733F, G13D			V600E, V600M		
+Farshidfar et al., 2022	MOKI	Cutaneous	Multi-hit		Q61L				Q853X	
+Farshidfar et al., 2022	MOOK	Cutaneous	Multi-hit					V600E	R1241X	
+Farshidfar et al., 2022	MUL	Cutaneous	Multi-hit		Q61H, Q61R			V600E		
+Farshidfar et al., 2022	NIBO	Cutaneous	Multi-hit		Q61H, Q61K			V600E, V600M		L576P, L572P
+Farshidfar et al., 2022	PAER	Cutaneous	Multi-hit			E342K			Q912X	D816V, D820V
+Farshidfar et al., 2022	BER	Cutaneous	NF1			E253K	E342K, E160K		R262C, W784X	
+Farshidfar et al., 2022	GOPIK	Cutaneous	NF1				E134K, E144K, S288F		R1241X	
+Farshidfar et al., 2022	KAT	Cutaneous	NF1		R15Q, R163Q, D208N, D356N, V513I, V661I	R794Q, R795Q, R796Q, R766Q, P32L, V101E, P3S		G758E, D594N, ., S114F	W9X, Q2239X, Q2218X	
+Farshidfar et al., 2022	KLAB	Cutaneous	NF1		D615N, D467N	E86K, R400K, E358K	P302S, ., S49C	P75L, P74S	., R416X, H729Q, R1204W, S2025L, S2004L, A2716V, A2737V	
+Farshidfar et al., 2022	LEAN	Cutaneous	NF1		S1091S, S1232S, Q70X	E267K	G192E, G202E		K40N, E41K, H393Q, H588Y, Q1174X, H1452Y, H1431Y, Q1993X, Q1972X, W2296R, W2317R, E2409X, E2430X	
+Farshidfar et al., 2022	MIG	Cutaneous	NF1				R271Q		K498fs	
+Farshidfar et al., 2022	NEKI	Cutaneous	NF1				G444D		Q803X, V1609fs, V1588fs	
+Farshidfar et al., 2022	OMEGA	Cutaneous	NF1			P805S, P804S, P806S, P776S			L792fs, L844F	
+Farshidfar et al., 2022	OTHO	Cutaneous	NF1				E260K		Q1010X, Q2239X, Q2218X	
+Farshidfar et al., 2022	PROST	Cutaneous	NF1						R440X	
+Farshidfar et al., 2022	RAY	Cutaneous	NF1						R2429X, R2450X	
+Farshidfar et al., 2022	ROG	Cutaneous	NF1			A146T		F468S	Q1218X	
+Farshidfar et al., 2022	YUTRIP	Acral	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	GASP	Cutaneous	RAS	NRAS	Q61L					
+Farshidfar et al., 2022	LETA	Cutaneous	RAS	NRAS	Q61L					
+Farshidfar et al., 2022	LONE	Cutaneous	RAS	NRAS	Q61L					
+Farshidfar et al., 2022	METRO	Cutaneous	RAS	NRAS	Q61L				P1646L, P1667L	
+Farshidfar et al., 2022	TULSA	Cutaneous	RAS	NRAS	Q61L, Q61K					
+Farshidfar et al., 2022	SEGI	Cutaneous	RAS	KRAS		Q61R		G464R	L1420V, L1441V	
+Farshidfar et al., 2022	AME	Cutaneous	RAS	HRAS			G13R			
+Farshidfar et al., 2022	POGER	Cutaneous	RAS	HRAS			Q61L			
+Farshidfar et al., 2022	YUVON	Acral	4WT					G469V		
+Farshidfar et al., 2022	YUWAPO	Acral	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	YUWERA	Acral	4WT							
+Farshidfar et al., 2022	ZS-2	Acral	4WT					G469A		
+Farshidfar et al., 2022	ZS-26	Acral	RAS	NRAS	Q61K					
+Farshidfar et al., 2022	ZS-3	Acral	RAS	NRAS	Q61L					
+Farshidfar et al., 2022	ZS-31	Acral	4WT							
+Farshidfar et al., 2022	ZS-33	Acral	BRAF					V600E		
+Farshidfar et al., 2022	ZS-4	Acral	4WT							
+Farshidfar et al., 2022	ZS-5	Acral	4WT							
+Farshidfar et al., 2022	FIT	Cutaneous	RAS	NRAS	Q61R	E363K	L240H, L230H			
+Farshidfar et al., 2022	LENIO	Cutaneous	RAS	NRAS	Q61R	R180Q		E275G		
+Farshidfar et al., 2022	BUNE	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	CHUFA	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	CIVET	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	HAZEL	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	RIDA	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	TRAIN	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	TUR	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	VOCI	Cutaneous	RAS	NRAS	Q61R					
+Farshidfar et al., 2022	POME	Cutaneous	RAS	NRAS	Q61R, Q61K	R342C, P195L				
+Farshidfar et al., 2022	OFER	Cutaneous	RAS	NRAS	Q61R, Q61K					
+Hayward et al., 2017	MELA_0012	Acral	RAS	NRAS	G12A				Inversion break in NF1	
+Hayward et al., 2017	MELA_0225	Acral	RAS	NRAS	G12D					
+Hayward et al., 2017	MELA_0199	Cutaneous	RAS	NRAS	Q61H					
+Hayward et al., 2017	MELA_0221	Cutaneous	RAS	NRAS	Q61H					
+Hayward et al., 2017	MELA_0014	Acral	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0016	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0024	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0040	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0049	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0052	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0053	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0078	Cutaneous	RAS	NRAS	Q61K		fs del			
+Hayward et al., 2017	MELA_0080	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0170	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0178	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0183	Cutaneous	RAS	NRAS	Q61K					RNA
+Hayward et al., 2017	MELA_0188	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0197	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0203	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0214	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0259	Cutaneous	RAS	NRAS	Q61K			H574Y		
+Hayward et al., 2017	MELA_0264	Cutaneous	RAS	NRAS	Q61K					
+Hayward et al., 2017	MELA_0257	Cutaneous	RAS	NRAS	Q61L	LT19LP		G469E		
+Hayward et al., 2017	MELA_0001	Acral	4WT							
+Hayward et al., 2017	MELA_0002	Acral	4WT							
+Hayward et al., 2017	MELA_0005	Acral	4WT							
+Hayward et al., 2017	MELA_0010	Acral	4WT							Y646D
+Hayward et al., 2017	MELA_0015	Acral	4WT							
+Hayward et al., 2017	MELA_0021	Acral	4WT							
+Hayward et al., 2017	MELA_0030	Acral	4WT							
+Hayward et al., 2017	MELA_0054	Acral	4WT					G466A		
+Hayward et al., 2017	MELA_0057	Acral	4WT						Complex linked translocations Breaking NF1	
+Hayward et al., 2017	MELA_0060	Acral	4WT							
+Hayward et al., 2017	MELA_0069	Acral	4WT							
+Hayward et al., 2017	MELA_0070	Acral	4WT							
+Hayward et al., 2017	MELA_0081	Acral	4WT							
+Hayward et al., 2017	MELA_0187	Acral	4WT							
+Hayward et al., 2017	MELA_0206	Acral	4WT						W784R	
+Hayward et al., 2017	MELA_0217	Acral	4WT							
+Hayward et al., 2017	MELA_0007	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0011	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0048	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0055	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0066	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0067	Acral	BRAF					V600E		
+Hayward et al., 2017	MELA_0061	Acral	KIT							K642E
+Hayward et al., 2017	MELA_0072	Acral	KIT							V654A
+Hayward et al., 2017	MELA_0003	Acral	NF1						V54L, SV(Deletion(break in NF1)plus intra-NF1dup)	
+Hayward et al., 2017	MELA_0008	Acral	NF1						Het Deletion (break in NF1)	
+Hayward et al., 2017	MELA_0009	Acral	NF1					G469E	2HetDeletions(both breakpoints in NF1)	
+Hayward et al., 2017	MELA_0026	Acral	NF1			D33E			L1187F and E2193*	
+Hayward et al., 2017	MELA_0064	Acral	NF1						Q803* and splice	
+Hayward et al., 2017	MELA_0164	Acral	NF1						E470_K471fs	
+Hayward et al., 2017	MELA_0004	Acral	RAS	HRAS			Q61L			
+Hayward et al., 2017	MELA_0019	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0020	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0023	Cutaneous	4WT					G469R and G469G		
+Hayward et al., 2017	MELA_0025	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0027	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0032	Cutaneous	4WT						L1411F	
+Hayward et al., 2017	MELA_0039	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0051	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0167	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0190	Cutaneous	4WT							I349I and RNA
+Hayward et al., 2017	MELA_0211	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0218	Cutaneous	4WT							V50L
+Hayward et al., 2017	MELA_0231	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0245	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0248	Cutaneous	4WT						P1416L	
+Hayward et al., 2017	MELA_0251	Cutaneous	4WT							
+Hayward et al., 2017	MELA_0262	Cutaneous	4WT						Breakpoints in NF1 for rearrangement (noisy but good evidence)	P577L and L576L
+Hayward et al., 2017	MELA_0017	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0018	Cutaneous	BRAF					K601E		
+Hayward et al., 2017	MELA_0028	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0031	Cutaneous	BRAF					V600R		
+Hayward et al., 2017	MELA_0035	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0043	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0044	Cutaneous	BRAF					V600E		I531I
+Hayward et al., 2017	MELA_0075	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0082	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0098	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0160	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0161	Cutaneous	BRAF					V600R		
+Hayward et al., 2017	MELA_0163	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0169	Cutaneous	BRAF					V600K and S363F		
+Hayward et al., 2017	MELA_0171	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0172	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0175	Cutaneous	BRAF					V600E		V48V
+Hayward et al., 2017	MELA_0176	Cutaneous	BRAF					E695K and K601E		
+Hayward et al., 2017	MELA_0177	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0179	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0180	Cutaneous	BRAF					V600D		
+Hayward et al., 2017	MELA_0185	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0195	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0196	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0200	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0201	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0202	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0205	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0208	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0210	Cutaneous	BRAF			splice site		V600K		
+Hayward et al., 2017	MELA_0212	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0213	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0215	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0222	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0226	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0228	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0229	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0230	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0232	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0236	Cutaneous	BRAF					V600K	0 / D1069D	
+Hayward et al., 2017	MELA_0237	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0238	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0239	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0240	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0241	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0242	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0243	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0249	Cutaneous	BRAF					V600K		
+Hayward et al., 2017	MELA_0250	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0253	Cutaneous	BRAF					V600K and G759E		
+Hayward et al., 2017	MELA_0256	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0258	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0261	Cutaneous	BRAF					V600E		
+Hayward et al., 2017	MELA_0254	Cutaneous	KIT							N655K
+Hayward et al., 2017	MELA_0050	Cutaneous	Multi-hit				G13D/G12N		LQ852*	
+Hayward et al., 2017	MELA_0166	Cutaneous	Multi-hit		Q61L				Q1822* and L1301L	
+Hayward et al., 2017	MELA_0173	Cutaneous	Multi-hit					V600K	splice site	
+Hayward et al., 2017	MELA_0181	Cutaneous	Multi-hit		G13D				Q1010* and G629R	
+Hayward et al., 2017	MELA_0182	Cutaneous	Multi-hit		Q61R				Q2228* and S144F	
+Hayward et al., 2017	MELA_0184	Cutaneous	Multi-hit					P764S	R440*	W557R
+Hayward et al., 2017	MELA_0189	Cutaneous	Multi-hit		G13D				Q1255*/Low evidence SV	
+Hayward et al., 2017	MELA_0022	Cutaneous	NF1						Q519*	D820Y
+Hayward et al., 2017	MELA_0079	Cutaneous	NF1						E962*	
+Hayward et al., 2017	MELA_0165	Cutaneous	NF1		A146V			G466E	splice site and F1479L and F2452F	
+Hayward et al., 2017	MELA_0186	Cutaneous	NF1						Q912* and S1443L	
+Hayward et al., 2017	MELA_0193	Cutaneous	NF1						L2158* and P795S and Translocation with breaks in NF1	
+Hayward et al., 2017	MELA_0209	Cutaneous	NF1		K117R			G469R	R440* and Met1035K	
+Hayward et al., 2017	MELA_0216	Cutaneous	NF1					G466E	E2339*	
+Hayward et al., 2017	MELA_0223	Cutaneous	NF1						splice site	
+Hayward et al., 2017	MELA_0234	Cutaneous	NF1					W604C	K1691*/ large deletion so copy 1	RNA
+Hayward et al., 2017	MELA_0247	Cutaneous	NF1					L706L	R440*	
+Hayward et al., 2017	MELA_0255	Cutaneous	RAS	HRAS			G13R and splice			
+Hayward et al., 2017	MELA_0068	Acral	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0192	Cutaneous	RAS	NRAS	Q61R	R164Q		G466R	L1095S	
+Hayward et al., 2017	MELA_0006	Cutaneous	RAS	NRAS	Q61R			S467L		
+Hayward et al., 2017	MELA_0029	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0034	Cutaneous	RAS	NRAS	Q61R					P164S
+Hayward et al., 2017	MELA_0037	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0041	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0046	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0047	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0076	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0083	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0168	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0174	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0207	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0227	Cutaneous	RAS	NRAS	Q61R				S833F and translocation break points in NF1	
+Hayward et al., 2017	MELA_0244	Cutaneous	RAS	NRAS	Q61R					
+Hayward et al., 2017	MELA_0263	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	ME001	Cutaneous	RAS	NRAS	Q61K					
+Hodis et al., 2012	ME002	Cutaneous	RAS	NRAS	Q61K					
+Hodis et al., 2012	ME014	Cutaneous	RAS	NRAS	Q61K					
+Hodis et al., 2012	ME044	Cutaneous	RAS	NRAS	Q61K					
+Hodis et al., 2012	MEL-13575	Cutaneous	RAS	NRAS	Q61K				R2269C	
+Hodis et al., 2012	MEL-Ma-Mel-79	Cutaneous	RAS	NRAS	Q61K				D1849Y	
+Hodis et al., 2012	MEL-Ma-Mel-91	Cutaneous	RAS	NRAS	Q61K					
+Hodis et al., 2012	MEL-Ma-Mel-53	Cutaneous	RAS	NRAS	Q61K, R68T					
+Hodis et al., 2012	MEL-JWCI-WGS-27	Cutaneous	RAS	NRAS	Q61L					
+Hodis et al., 2012	MEL-Ma-Mel-102	Cutaneous	RAS	NRAS	Q61L					
+Hodis et al., 2012	MEL-Ma-Mel-37	Cutaneous	RAS	NRAS	Q61L					
+Hodis et al., 2012	MEL-13531	Cutaneous	4WT							
+Hodis et al., 2012	MEL-13560	Cutaneous	4WT							
+Hodis et al., 2012	MEL-JWCI-WGS-1	Cutaneous	4WT						E1436K, S2495F, S2802F	
+Hodis et al., 2012	MEL-JWCI-WGS-13	Cutaneous	4WT					L597S		
+Hodis et al., 2012	MEL-JWCI-WGS-7	Cutaneous	4WT							
+Hodis et al., 2012	MEL-Ma-Mel-08a	Cutaneous	4WT							
+Hodis et al., 2012	MEL-Ma-Mel-119	Cutaneous	4WT		H131R					
+Hodis et al., 2012	MEL-Ma-Mel-62	Cutaneous	4WT							
+Hodis et al., 2012	MEL-Ma-Mel-76	Cutaneous	4WT							
+Hodis et al., 2012	ME009	Cutaneous	BRAF		T50I			V600E	G2716E	
+Hodis et al., 2012	ME012	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME015	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME016	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME021	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME029	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME034	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME041	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME043	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME045	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME048	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	ME050	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13447	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13456	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13468	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13473	Cutaneous	BRAF					V600K		
+Hodis et al., 2012	MEL-13537	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13549	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13561	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13567	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13591	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13600	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-12	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-14	Cutaneous	BRAF					V600R, H542Y	L1496F	
+Hodis et al., 2012	MEL-JWCI-WGS-15	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-18	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-19	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-21	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-22	Cutaneous	BRAF					V600K		
+Hodis et al., 2012	MEL-JWCI-WGS-24	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-25	Cutaneous	BRAF					V600K		
+Hodis et al., 2012	MEL-JWCI-WGS-3	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-32	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-33	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-35	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-36	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-37	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-39	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-4	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-JWCI-WGS-42	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-04	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-120	Cutaneous	BRAF					V600E, S616F		
+Hodis et al., 2012	MEL-Ma-Mel-16	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-19	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-36	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-54a	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-55	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-59	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-86	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-Ma-Mel-92	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-UKRV-Mel-20	Cutaneous	BRAF					V600E	P1323L	
+Hodis et al., 2012	MEL-UKRV-Mel-6	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	Mel-BRAFi-03	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	Mel_BRAFi_02_PRE	Cutaneous	BRAF					V600E		
+Hodis et al., 2012	MEL-13543	Cutaneous	KIT							V559A
+Hodis et al., 2012	ME017	Cutaneous	Multi-hit					K601E, P731S	X1166_splice	
+Hodis et al., 2012	MEL-Ma-Mel-65	Cutaneous	Multi-hit		Q61K				R440*, S1354F	V569A
+Hodis et al., 2012	MEL-Ma-Mel-67	Cutaneous	Multi-hit					V600K, S365L	X2441_splice, N2602I	
+Hodis et al., 2012	MEL-JWCI-WGS-34	Cutaneous	NF1						L2395*, Y2192*, L2007F	
+Hodis et al., 2012	MEL-Ma-Mel-103b	Cutaneous	NF1		Q22K				W784*	
+Hodis et al., 2012	MEL-Ma-Mel-114	Cutaneous	NF1						C622*, X668_splice	
+Hodis et al., 2012	MEL-Ma-Mel-48	Cutaneous	RAS	HRAS			G13I	G469R		
+Hodis et al., 2012	ME010	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	ME011	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	ME018	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	ME030	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	ME035	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-13463	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-JWCI-WGS-29	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-JWCI-WGS-43	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-Ma-Mel-05	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-Ma-Mel-105	Cutaneous	RAS	NRAS	Q61R					
+Hodis et al., 2012	MEL-Ma-Mel-35	Cutaneous	RAS	NRAS	Q61R			S102F		
+Hodis et al., 2012	MEL-Ma-Mel-94	Cutaneous	RAS	NRAS	Q61R					
+Liang et al., 2017	P-1	Acral	4WT							
+Liang et al., 2017	P-10	Acral	4WT							
+Liang et al., 2017	P-11	Acral	4WT							
+Liang et al., 2017	P-12	Acral	RAS	KRAS		G12D				
+Liang et al., 2017	P-13	Acral	4WT							
+Liang et al., 2017	P-14	Acral	4WT							
+Liang et al., 2017	P-15	Acral	BRAF					V600E		
+Liang et al., 2017	P-16	Acral	4WT							
+Liang et al., 2017	P-17	Acral	RAS	NRAS	Q61K					
+Liang et al., 2017	P-18	Acral	4WT							
+Liang et al., 2017	P-19	Acral	NF1					HOMDEL	E2578*, HOMDEL	
+Liang et al., 2017	P-2	Acral	BRAF					V600E		
+Liang et al., 2017	P-20	Acral	BRAF					V600E		
+Liang et al., 2017	P-21	Acral	BRAF					V600E		
+Liang et al., 2017	P-22	Acral	4WT							
+Liang et al., 2017	P-23	Acral	4WT							
+Liang et al., 2017	P-24	Acral	RAS	NRAS	Q61K					
+Liang et al., 2017	P-25	Acral	BRAF					R462K, V600K		
+Liang et al., 2017	P-27	Acral	4WT							
+Liang et al., 2017	P-28	Acral	4WT							
+Liang et al., 2017	P-29	Acral	4WT		A59G					
+Liang et al., 2017	P-3	Acral	4WT							
+Liang et al., 2017	P-30	Acral	4WT							
+Liang et al., 2017	P-32	Acral	KIT							L576P
+Liang et al., 2017	P-33	Acral	4WT							
+Liang et al., 2017	P-34	Acral	4WT							
+Liang et al., 2017	P-4	Acral	RAS	NRAS	Q61K					
+Liang et al., 2017	P-5	Acral	4WT			V14L, AMP		G466E		
+Liang et al., 2017	P-6	Acral	4WT							
+Liang et al., 2017	P-7	Acral	4WT							
+Liang et al., 2017	P-8	Acral	4WT							
+Liang et al., 2017	P-9	Acral	4WT							
+Liu et al., 2024	AM110.T	Acral	RAS	NRAS	G12C				S1386R	
+Liu et al., 2024	AM18.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM35.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM37.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM46.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM70.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM74.T	Acral	RAS	NRAS	Q61K					
+Liu et al., 2024	AM02.T	Acral	4WT							
+Liu et al., 2024	AM03.T	Acral	4WT							
+Liu et al., 2024	AM05.T	Acral	4WT							
+Liu et al., 2024	AM06.T	Acral	4WT							
+Liu et al., 2024	AM07.T	Acral	4WT							
+Liu et al., 2024	AM08.T	Acral	4WT							
+Liu et al., 2024	AM09.T	Acral	4WT							H630D
+Liu et al., 2024	AM11.T	Acral	4WT							
+Liu et al., 2024	AM13.T	Acral	4WT							
+Liu et al., 2024	AM15.T	Acral	4WT							A482T
+Liu et al., 2024	AM16.T	Acral	4WT							
+Liu et al., 2024	AM17.T	Acral	4WT							
+Liu et al., 2024	AM20.T	Acral	4WT							Y578S
+Liu et al., 2024	AM21.T	Acral	4WT							
+Liu et al., 2024	AM22.T	Acral	4WT							
+Liu et al., 2024	AM24.T	Acral	4WT							
+Liu et al., 2024	AM25.T	Acral	4WT							
+Liu et al., 2024	AM27.T	Acral	4WT							
+Liu et al., 2024	AM28.T	Acral	4WT							
+Liu et al., 2024	AM29.T	Acral	4WT							
+Liu et al., 2024	AM30.T	Acral	4WT						T2114I	
+Liu et al., 2024	AM31.T	Acral	4WT							
+Liu et al., 2024	AM32.T	Acral	4WT							
+Liu et al., 2024	AM33.T	Acral	4WT							
+Liu et al., 2024	AM36.T	Acral	4WT							
+Liu et al., 2024	AM39.T	Acral	4WT					E586K		
+Liu et al., 2024	AM40.T	Acral	4WT							
+Liu et al., 2024	AM41.M	Acral	4WT							
+Liu et al., 2024	AM41.T	Acral	4WT							
+Liu et al., 2024	AM42.T	Acral	4WT							
+Liu et al., 2024	AM43.T	Acral	4WT							
+Liu et al., 2024	AM44.T	Acral	4WT							
+Liu et al., 2024	AM45.T	Acral	4WT							
+Liu et al., 2024	AM48.T	Acral	4WT							
+Liu et al., 2024	AM49.T	Acral	4WT							
+Liu et al., 2024	AM50.T	Acral	4WT							
+Liu et al., 2024	AM51.T	Acral	4WT							
+Liu et al., 2024	AM52.T	Acral	4WT							
+Liu et al., 2024	AM53.T	Acral	4WT							
+Liu et al., 2024	AM55.T	Acral	4WT							
+Liu et al., 2024	AM56.T	Acral	4WT							
+Liu et al., 2024	AM58.T	Acral	4WT							
+Liu et al., 2024	AM59.T	Acral	4WT							
+Liu et al., 2024	AM60.T	Acral	4WT							
+Liu et al., 2024	AM61.T	Acral	4WT							
+Liu et al., 2024	AM63.T	Acral	4WT							I201V
+Liu et al., 2024	AM64.T	Acral	4WT							
+Liu et al., 2024	AM65.T	Acral	4WT					D22E		
+Liu et al., 2024	AM66.T	Acral	4WT							
+Liu et al., 2024	AM67.T	Acral	4WT							
+Liu et al., 2024	AM69.T	Acral	4WT							
+Liu et al., 2024	AM71.T	Acral	4WT							
+Liu et al., 2024	AM72.T	Acral	4WT							
+Liu et al., 2024	AM73.T	Acral	4WT							
+Liu et al., 2024	AM77.T	Acral	4WT							
+Liu et al., 2024	AM78.T	Acral	4WT							
+Liu et al., 2024	AM81.T	Acral	4WT							
+Liu et al., 2024	AM82.T	Acral	4WT							
+Liu et al., 2024	AM83.T	Acral	4WT						M645V	
+Liu et al., 2024	AM84.T	Acral	4WT							
+Liu et al., 2024	AM85.T	Acral	4WT						M645V	
+Liu et al., 2024	AM86.T	Acral	4WT							
+Liu et al., 2024	AM87.T	Acral	4WT					D594N		
+Liu et al., 2024	AM90.T	Acral	4WT							
+Liu et al., 2024	AM91.T	Acral	4WT							
+Liu et al., 2024	AM92.T	Acral	4WT							
+Liu et al., 2024	AM93.T	Acral	4WT							
+Liu et al., 2024	AM94.T	Acral	4WT							
+Liu et al., 2024	AM95.T	Acral	4WT							
+Liu et al., 2024	AM97.T	Acral	4WT							
+Liu et al., 2024	AM98.T	Acral	4WT							
+Liu et al., 2024	AM99.T	Acral	4WT							
+Liu et al., 2024	AM100.T	Acral	4WT							
+Liu et al., 2024	AM101.T	Acral	4WT							
+Liu et al., 2024	AM102.T	Acral	4WT							
+Liu et al., 2024	AM103.T	Acral	4WT							
+Liu et al., 2024	AM105.T	Acral	4WT							
+Liu et al., 2024	AM106.T	Acral	4WT							
+Liu et al., 2024	AM107.T	Acral	4WT							
+Liu et al., 2024	AM109.T	Acral	4WT							
+Liu et al., 2024	AM112.T	Acral	4WT							
+Liu et al., 2024	AM113.T	Acral	4WT							
+Liu et al., 2024	AM114.T	Acral	4WT							
+Liu et al., 2024	AM10.T	Acral	BRAF					V600E		
+Liu et al., 2024	AM67.R	Acral	BRAF					V600E		
+Liu et al., 2024	AM75.T	Acral	BRAF					V600E		
+Liu et al., 2024	AM76.T	Acral	BRAF					V600E		
+Liu et al., 2024	AM88.T	Acral	BRAF					K601N		
+Liu et al., 2024	AM89.T	Acral	BRAF					K601N		
+Liu et al., 2024	AM12.T	Acral	KIT							S476I
+Liu et al., 2024	AM34.T	Acral	KIT							L576P
+Liu et al., 2024	AM38.T	Acral	KIT							L576P
+Liu et al., 2024	AM57.T	Acral	KIT							L576P
+Liu et al., 2024	AM104.T	Acral	KIT							L576P
+Liu et al., 2024	AM108.T	Acral	KIT							L576P
+Liu et al., 2024	AM14.T	Acral	NF1						A2076Sfs*22	
+Liu et al., 2024	AM79.T	Acral	NF1						W425X	
+Liu et al., 2024	AM111.T	Acral	NF1						Q2492X	
+Liu et al., 2024	AM96.T	Acral	RAS	KRAS		G12A				
+Liu et al., 2024	AM01.T	Acral	RAS	KRAS		G12D		N581S		
+Liu et al., 2024	AM80.T	Acral	RAS	KRAS		G13D				
+Liu et al., 2024	AM04.T	Acral	RAS	NRAS	Q61R					
+Liu et al., 2024	AM19.T	Acral	RAS	NRAS	Q61R					
+Liu et al., 2024	AM23.T	Acral	RAS	NRAS	Q61R					
+Liu et al., 2024	AM26.T	Acral	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0388	Cutaneous	RAS	NRAS	G12C				M1?, null, R1000C	
+Newell et al., 2022	MELA_0292	Acral	RAS	NRAS	G12D					
+Newell et al., 2022	MELA_0265	Acral	RAS	NRAS	G12R					
+Newell et al., 2022	MELA_0295	Acral	RAS	NRAS	G12S					
+Newell et al., 2022	MELA_0531	Cutaneous	RAS	NRAS	G13D					
+Newell et al., 2022	MELA_0545	Cutaneous	RAS	NRAS	G13R					
+Newell et al., 2022	MELA_0551	Cutaneous	RAS	NRAS	null, G12V				L844F, null, S2788F	
+Newell et al., 2022	MELA_0634	Cutaneous	RAS	NRAS	Q61H				K395R, null	
+Newell et al., 2022	MELA_0334	Acral	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0271	Acral	RAS	NRAS	Q61K				T2034T	
+Newell et al., 2022	MELA_0273	Acral	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0286	Acral	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0293	Acral	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0279	Acral	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0391	Cutaneous	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0552	Cutaneous	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0560	Cutaneous	RAS	NRAS	Q61K		G138D		A203S, I1719L	
+Newell et al., 2022	MELA_0496	Cutaneous	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0369	Cutaneous	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0509	Cutaneous	RAS	NRAS	Q61K				A2321V, P2529F	
+Newell et al., 2022	MELA_0365	Cutaneous	RAS	NRAS	Q61K					
+Newell et al., 2022	MELA_0618	Cutaneous	RAS	NRAS	Q61L				null	
+Newell et al., 2022	MELA_0628	Cutaneous	RAS	NRAS	Q61L					
+Newell et al., 2022	MELA_0381	Cutaneous	RAS	NRAS	Q61P			G469E		
+Newell et al., 2022	MELA_0278	Acral	4WT							
+Newell et al., 2022	MELA_0297	Acral	4WT							D820Y
+Newell et al., 2022	MELA_0276	Acral	4WT							
+Newell et al., 2022	MELA_0337	Acral	4WT							
+Newell et al., 2022	MELA_0284	Acral	4WT					K700E		
+Newell et al., 2022	MELA_0872	Acral	4WT							
+Newell et al., 2022	MELA_0294	Acral	4WT						null	
+Newell et al., 2022	MELA_0315	Acral	4WT							
+Newell et al., 2022	MELA_0873	Acral	4WT							
+Newell et al., 2022	MELA_0277	Acral	4WT							
+Newell et al., 2022	MELA_0308	Acral	4WT							
+Newell et al., 2022	MELA_0272	Acral	4WT							
+Newell et al., 2022	MELA_0309	Acral	4WT							
+Newell et al., 2022	MELA_0283	Acral	4WT							
+Newell et al., 2022	MELA_0349	Acral	4WT							
+Newell et al., 2022	MELA_0296	Acral	4WT							
+Newell et al., 2022	MELA_0270	Acral	4WT							
+Newell et al., 2022	MELA_0305	Acral	4WT							
+Newell et al., 2022	MELA_0280	Acral	4WT							
+Newell et al., 2022	MELA_0288	Acral	4WT							
+Newell et al., 2022	MELA_0268	Acral	4WT							
+Newell et al., 2022	MELA_0267	Acral	4WT							
+Newell et al., 2022	MELA_0301	Acral	4WT					D594A		
+Newell et al., 2022	MELA_0266	Acral	4WT						R1412I	
+Newell et al., 2022	MELA_0269	Acral	4WT							
+Newell et al., 2022	MELA_0290	Acral	4WT							Y646D
+Newell et al., 2022	MELA_0314	Acral	4WT							
+Newell et al., 2022	MELA_0291	Acral	4WT							
+Newell et al., 2022	MELA_0300	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0304	Acral	BRAF					G464V, K601N		
+Newell et al., 2022	MELA_0332	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0336	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0333	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0311	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0310	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0281	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0285	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0335	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0298	Acral	BRAF					V600E		
+Newell et al., 2022	MELA_0282	Acral	KIT						L529L	N822K
+Newell et al., 2022	MELA_0274	Acral	KIT							D816V
+Newell et al., 2022	MELA_0870	Acral	Multi-hit						R816*	K642E
+Newell et al., 2022	MELA_0289	Acral	NF1						V2205fs	
+Newell et al., 2022	MELA_0307	Acral	RAS	KRAS		G12A				
+Newell et al., 2022	MELA_0488	Cutaneous	4WT							
+Newell et al., 2022	MELA_0655	Cutaneous	4WT							
+Newell et al., 2022	MELA_0502	Cutaneous	4WT						G140G	S877Y
+Newell et al., 2022	MELA_0665	Cutaneous	4WT							
+Newell et al., 2022	MELA_0480	Cutaneous	4WT						K613N	
+Newell et al., 2022	MELA_0505	Cutaneous	4WT							
+Newell et al., 2022	MELA_0390	Cutaneous	4WT							
+Newell et al., 2022	MELA_0520	Cutaneous	4WT						V917G, R1828W, P1840L	
+Newell et al., 2022	MELA_0389	Cutaneous	4WT							
+Newell et al., 2022	MELA_0544	Cutaneous	4WT					L597S		
+Newell et al., 2022	MELA_0380	Cutaneous	4WT							
+Newell et al., 2022	MELA_0608	Cutaneous	4WT							
+Newell et al., 2022	MELA_0535	Cutaneous	4WT						L2668L	
+Newell et al., 2022	MELA_0444	Cutaneous	4WT							
+Newell et al., 2022	MELA_0559	Cutaneous	4WT						L1256R	
+Newell et al., 2022	MELA_0441	Cutaneous	4WT							
+Newell et al., 2022	MELA_0384	Cutaneous	4WT					L597Q		
+Newell et al., 2022	MELA_0386	Cutaneous	4WT							
+Newell et al., 2022	MELA_0484	Cutaneous	4WT		GQ60GK					
+Newell et al., 2022	MELA_0533	Cutaneous	4WT					S467L		
+Newell et al., 2022	MELA_0687	Cutaneous	4WT							
+Newell et al., 2022	MELA_0379	Cutaneous	4WT						null	
+Newell et al., 2022	MELA_0540	Cutaneous	4WT			K117N, K117*			null, L2133L	
+Newell et al., 2022	MELA_0651	Cutaneous	4WT							
+Newell et al., 2022	MELA_0555	Cutaneous	4WT					G469A		
+Newell et al., 2022	MELA_0373	Cutaneous	4WT						null	
+Newell et al., 2022	MELA_0511	Cutaneous	4WT							
+Newell et al., 2022	MELA_0366	Cutaneous	4WT							
+Newell et al., 2022	MELA_0507	Cutaneous	4WT							
+Newell et al., 2022	MELA_0492	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0392	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0425	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0364	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0522	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0564	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0521	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0491	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0393	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0469	Cutaneous	BRAF					V600E	L1505P	
+Newell et al., 2022	MELA_0501	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0361	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0457	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0573	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0525	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0615	Cutaneous	BRAF					V600E	L1300L	
+Newell et al., 2022	MELA_0398	Cutaneous	BRAF					V600E	R752S	
+Newell et al., 2022	MELA_0569	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0395	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0542	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0287	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0530	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0563	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0407	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0434	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0512	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0358	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0362	Cutaneous	BRAF					V600K		
+Newell et al., 2022	MELA_0645	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0519	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0383	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0359	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0385	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0513	Cutaneous	BRAF					V600K	P1535S	
+Newell et al., 2022	MELA_0375	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0534	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0443	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0357	Cutaneous	BRAF					V600E	null	
+Newell et al., 2022	MELA_0370	Cutaneous	BRAF					V600K	null	
+Newell et al., 2022	MELA_0537	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0303	Cutaneous	BRAF					V600K	P2516L	
+Newell et al., 2022	MELA_0330	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0561	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0377	Cutaneous	BRAF					V600K	A2737V	
+Newell et al., 2022	MELA_0440	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0418	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0541	Cutaneous	BRAF					V600E	S879L	
+Newell et al., 2022	MELA_0566	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0638	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0510	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0562	Cutaneous	BRAF					V600E, T241T		
+Newell et al., 2022	MELA_0567	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0635	Cutaneous	BRAF					V600E		
+Newell et al., 2022	MELA_0312	Cutaneous	KIT							K642E
+Newell et al., 2022	MELA_0517	Cutaneous	KIT					L485W		D816V
+Newell et al., 2022	MELA_0374	Cutaneous	Multi-hit			Q61H		V600E		
+Newell et al., 2022	MELA_0553	Cutaneous	Multi-hit		Q61H				L1196F, P1398S, A1767_E1768fs	
+Newell et al., 2022	MELA_0382	Cutaneous	Multi-hit		Q61H, D47N				P1836_D1837fs, P1836T	
+Newell et al., 2022	MELA_0436	Cutaneous	Multi-hit		G13D				L1104P, Q1174*	
+Newell et al., 2022	MELA_0442	Cutaneous	Multi-hit		Q61K			V600E		
+Newell et al., 2022	MELA_0652	Cutaneous	Multi-hit		Q61H, T50I				IQ281*	
+Newell et al., 2022	MELA_0619	Cutaneous	Multi-hit		G12S				Q1341*, R1362*, S2132F	
+Newell et al., 2022	MELA_0394	Cutaneous	Multi-hit		Q61L				K2273*	
+Newell et al., 2022	MELA_0657	Cutaneous	NF1					G469R	Q959*, S1500G	
+Newell et al., 2022	MELA_0378	Cutaneous	NF1						Q282*, F843fs, T2667T	
+Newell et al., 2022	MELA_0613	Cutaneous	NF1						R2517*	
+Newell et al., 2022	MELA_0368	Cutaneous	NF1					R735R	E544*, N970fs, S1566N	
+Newell et al., 2022	MELA_0421	Cutaneous	NF1						null, Y1169H, R1204W	D820G
+Newell et al., 2022	MELA_0514	Cutaneous	NF1					P708S, G466E	F1479F, Q2616*	
+Newell et al., 2022	MELA_0447	Cutaneous	NF1						Q535*	
+Newell et al., 2022	MELA_0633	Cutaneous	NF1						Q519*	
+Newell et al., 2022	MELA_0532	Cutaneous	NF1			R164Q			Q2239*	
+Newell et al., 2022	MELA_0538	Cutaneous	NF1						Q756*, null, I2838I	R281K
+Newell et al., 2022	MELA_0677	Cutaneous	NF1						P22S, Q1235*	
+Newell et al., 2022	MELA_0558	Cutaneous	NF1						R440*, null, Q2228*, S2467L	
+Newell et al., 2022	MELA_0659	Cutaneous	NF1						W561*, Q1218*	
+Newell et al., 2022	MELA_0413	Cutaneous	NF1						W599*, R1362*, F2014F	
+Newell et al., 2022	MELA_0550	Cutaneous	NF1						G629R	P754P
+Newell et al., 2022	MELA_0557	Cutaneous	NF1						Q270*, null, YL2102YF	
+Newell et al., 2022	MELA_0658	Cutaneous	NF1			R164Q		Q356*	Q1218*	
+Newell et al., 2022	MELA_0430	Cutaneous	NF1						K1655*, Y1874*, H634Y	
+Newell et al., 2022	MELA_0526	Cutaneous	NF1						R1362*	
+Newell et al., 2022	MELA_0547	Cutaneous	NF1					H574Y	Q853*, P1604S, I2268I, null	
+Newell et al., 2022	MELA_0543	Cutaneous	NF1					P708L	N339fs, null, I2838I	
+Newell et al., 2022	MELA_0485	Cutaneous	NF1						R1241*	
+Newell et al., 2022	MELA_0654	Cutaneous	NF1						Q1188*, F1289F	
+Newell et al., 2022	MELA_0497	Cutaneous	NF1						Q531*, Y2240*	
+Newell et al., 2022	MELA_0483	Cutaneous	NF1					H574Y, S432L	K205fs	
+Newell et al., 2022	MELA_0360	Cutaneous	NF1						R1306*	
+Newell et al., 2022	MELA_0624	Cutaneous	NF1					H542Y	W696*, F1926fs, S2521S	S197S
+Newell et al., 2022	MELA_0644	Cutaneous	NF1					L584F, V177V	R1241*, L2011S, G2816K	
+Newell et al., 2022	MELA_0546	Cutaneous	NF1						R681*	A795A
+Newell et al., 2022	MELA_0528	Cutaneous	NF1			G60S			G1403fs, A1404T	
+Newell et al., 2022	MELA_0524	Cutaneous	NF1						K1105*, L1446P	
+Newell et al., 2022	MELA_0646	Cutaneous	NF1						R1362*	
+Newell et al., 2022	MELA_0367	Cutaneous	NF1						L1301L, S1599fs, P1851S, R2450*, S2791F	
+Newell et al., 2022	MELA_0683	Cutaneous	NF1						null, R1362*, P2516L, S2788F	
+Newell et al., 2022	MELA_0660	Cutaneous	NF1						H448N, CQ1032*, null	
+Newell et al., 2022	MELA_0680	Cutaneous	NF1						R2450*	
+Newell et al., 2022	MELA_0661	Cutaneous	NF1				G115G	F256F	P1232S, R2450*, PR2516*	
+Newell et al., 2022	MELA_0472	Cutaneous	NF1						Q853*	
+Newell et al., 2022	MELA_0433	Cutaneous	NF1					G466A, A415V	Q554*	
+Newell et al., 2022	MELA_0629	Cutaneous	RAS	KRAS		E62K, Q61R				
+Newell et al., 2022	MELA_0516	Cutaneous	RAS	KRAS		G12D			F1397F, P1667S, L2348L	
+Newell et al., 2022	MELA_0504	Cutaneous	RAS	KRAS		Q61L				
+Newell et al., 2022	MELA_0363	Cutaneous	RAS	KRAS		Q61R				
+Newell et al., 2022	MELA_0455	Cutaneous	RAS	HRAS			G13R	D594E		
+Newell et al., 2022	MELA_0306	Acral	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0871	Acral	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0275	Acral	RAS	NRAS	Q61R				null	
+Newell et al., 2022	MELA_0415	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0446	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0387	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0548	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0554	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0481	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0372	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0500	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0529	Cutaneous	RAS	NRAS	Q61R					
+Newell et al., 2022	MELA_0503	Cutaneous	RAS	NRAS	Q61R		A59V			
+Newell et al., 2022	MELA_0536	Cutaneous	RAS	NRAS	Q61R					
+Shi et al., 2022	M1087	Acral	RAS	NRAS	Q61K					
+Shi et al., 2022	M1013	Acral	RAS	NRAS	Q61L			G466V		
+Shi et al., 2022	M1116	Acral	RAS	NRAS	Q61L					
+Shi et al., 2022	M0359	Acral	4WT							
+Shi et al., 2022	M0360	Acral	4WT							
+Shi et al., 2022	M0377	Acral	4WT							
+Shi et al., 2022	M0387	Acral	4WT							
+Shi et al., 2022	M0389	Acral	4WT							
+Shi et al., 2022	M0439	Acral	4WT							
+Shi et al., 2022	M0459	Acral	4WT							
+Shi et al., 2022	M0552	Acral	4WT						EXON7:C.730+1G>A	
+Shi et al., 2022	M0560	Acral	4WT							
+Shi et al., 2022	M0572	Acral	4WT							
+Shi et al., 2022	M0582	Acral	4WT							
+Shi et al., 2022	M0605	Acral	4WT							A533D
+Shi et al., 2022	M0624	Acral	4WT							
+Shi et al., 2022	M0635	Acral	4WT							
+Shi et al., 2022	M0821	Acral	4WT							
+Shi et al., 2022	M0833	Acral	4WT							
+Shi et al., 2022	M0868	Acral	4WT							
+Shi et al., 2022	M0872	Acral	4WT							
+Shi et al., 2022	M0890	Acral	4WT							
+Shi et al., 2022	M1005	Acral	4WT							
+Shi et al., 2022	M1019	Acral	4WT							
+Shi et al., 2022	M1027	Acral	4WT							
+Shi et al., 2022	M1083	Acral	4WT							
+Shi et al., 2022	M1115	Acral	4WT							
+Shi et al., 2022	M1137	Acral	4WT							D820E
+Shi et al., 2022	M1147	Acral	4WT						D2325N	D820Y
+Shi et al., 2022	M1309	Acral	4WT							
+Shi et al., 2022	M1310	Acral	4WT							
+Shi et al., 2022	M1311	Acral	4WT							
+Shi et al., 2022	M1314	Acral	4WT							
+Shi et al., 2022	M1324	Acral	4WT							
+Shi et al., 2022	M1367	Acral	4WT							
+Shi et al., 2022	MA01	Acral	4WT							
+Shi et al., 2022	M0357	Acral	BRAF					V600E		
+Shi et al., 2022	M0555	Acral	BRAF					V600E		
+Shi et al., 2022	M0588	Acral	BRAF					V600E		
+Shi et al., 2022	M0629	Acral	BRAF					V600E		
+Shi et al., 2022	M0793	Acral	BRAF					V600E		
+Shi et al., 2022	M0903	Acral	BRAF					V600E		
+Shi et al., 2022	M1101	Acral	BRAF					V600E		
+Shi et al., 2022	M1313	Acral	BRAF					V600E		
+Shi et al., 2022	MA02	Acral	KIT							574_575DEL
+Shi et al., 2022	M0632	Acral	KIT							S476I
+Shi et al., 2022	M1021	Acral	KIT							L576P
+Shi et al., 2022	M1071	Acral	KIT							L576P
+Shi et al., 2022	MA04	Acral	KIT							W557R
+Shi et al., 2022	M1114	Acral	Multi-hit						L2280X	K642E
+Shi et al., 2022	M1030	Acral	Multi-hit			G12D				L576P
+Shi et al., 2022	M1058	Acral	RAS	KRAS		G12D				
+Shi et al., 2022	M0690	Acral	RAS	HRAS			Q61K			
+Shi et al., 2022	M0365	Acral	RAS	NRAS	Q61R					
+Shi et al., 2022	M0577	Acral	RAS	NRAS	Q61R					
+Shi et al., 2022	M0615	Acral	RAS	NRAS	Q61R					
+Shi et al., 2022	M0616	Acral	RAS	NRAS	Q61R					
+Shi et al., 2022	M0625	Acral	RAS	NRAS	Q61R					
+Shi et al., 2022	M1121	Acral	RAS	NRAS	Q61R					
+TCGA, Cell 2015	TCGA-EB-A44O	Cutaneous	RAS	NRAS	Q61K					
+TCGA, Cell 2015	TCGA-EB-A551	Cutaneous	RAS	NRAS	Q61K					
+TCGA, Cell 2015	TCGA-BF-A1Q0	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-BF-A5EP	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-BF-A5ER	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-BF-A5ES	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-D9-A4Z5	Cutaneous	4WT					N581H		
+TCGA, Cell 2015	TCGA-EB-A3XF	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A4IQ	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A4OY	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A4XL	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A51B	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A550	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-EB-A5FP	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-ER-A196	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-ER-A19T	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-ER-A2NF	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-FR-A2OS	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-GN-A269	Cutaneous	4WT						S1754F	
+TCGA, Cell 2015	TCGA-HR-A5NC	Cutaneous	4WT							
+TCGA, Cell 2015	TCGA-BF-A1PU	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-BF-A1PX	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-BF-A3DJ	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-BF-A3DL	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-BF-A3DM	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-BF-A3DN	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-BF-A5EQ	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-D9-A4Z2	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A24C	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A24D	Cutaneous	BRAF					K601E, L245F		
+TCGA, Cell 2015	TCGA-EB-A299	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A3HV	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A3XB	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-EB-A3XC	Cutaneous	BRAF					V600R		
+TCGA, Cell 2015	TCGA-EB-A3XD	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A3XE	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A3Y6	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A42Z	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A430	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A431	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A44N	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A44P	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A4IS	Cutaneous	BRAF					V600E	P698L	
+TCGA, Cell 2015	TCGA-EB-A4OZ	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A4P0	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-EB-A553	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-ER-A19K	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-FS-A1ZN	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-FW-A5DX	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-GF-A2C7	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-GN-A263	Cutaneous	BRAF					V600E		
+TCGA, Cell 2015	TCGA-IH-A3EA	Cutaneous	BRAF					V600K		
+TCGA, Cell 2015	TCGA-EB-A3Y7	Cutaneous	KIT						P1232A	V559A
+TCGA, Cell 2015	TCGA-EB-A42Y	Cutaneous	KIT							K642E
+TCGA, Cell 2015	TCGA-ER-A42H	Cutaneous	KIT							K642E
+TCGA, Cell 2015	TCGA-BF-A1PV	Cutaneous	Multi-hit		Q61L				R440*	
+TCGA, Cell 2015	TCGA-BF-A1PZ	Cutaneous	Multi-hit		Q61R				X2143_splice	
+TCGA, Cell 2015	TCGA-EB-A41A	Cutaneous	NF1						G96=, R440*, X2539_splice	
+TCGA, Cell 2015	TCGA-FR-A3R1	Cutaneous	NF1						Q1070*, Q282*	
+TCGA, Cell 2015	TCGA-GN-A26C	Cutaneous	NF1						L604*	
+TCGA, Cell 2015	TCGA-EB-A41B	Cutaneous	RAS	HRAS			Q61K			
+TCGA, Cell 2015	TCGA-ER-A194	Cutaneous	RAS	HRAS			G13S		H647Y, L844F	
+TCGA, Cell 2015	TCGA-BF-A5EO	Cutaneous	RAS	NRAS	Q61R					
+TCGA, Cell 2015	TCGA-D9-A3Z4	Cutaneous	RAS	NRAS	Q61R					
+TCGA, Cell 2015	TCGA-D9-A4Z3	Cutaneous	RAS	NRAS	Q61R					
+TCGA, Cell 2015	TCGA-EB-A1NK	Cutaneous	RAS	NRAS	Q61R					
+TCGA, Cell 2015	TCGA-ER-A2NB	Cutaneous	RAS	NRAS	Q61R					
+Wang et al., 2024	Case 061	Acral	RAS	NRAS	G12C					
+Wang et al., 2024	Case 060	Acral	RAS	NRAS	G12R					
+Wang et al., 2024	Case 006	Acral	RAS	NRAS	Q61K					
+Wang et al., 2024	Case 058	Acral	RAS	NRAS	Q61K					
+Wang et al., 2024	Case 001	Acral	RAS	NRAS	Q61L					
+Wang et al., 2024	Case 049	Acral	RAS	NRAS	Q61L					
+Wang et al., 2024	Case 066	Acral	4WT							
+Wang et al., 2024	Case 067	Acral	4WT							
+Wang et al., 2024	Case 069	Acral	4WT							
+Wang et al., 2024	Case 074	Acral	4WT							
+Wang et al., 2024	Case 079	Acral	4WT							
+Wang et al., 2024	Case 080	Acral	4WT							
+Wang et al., 2024	Case 082	Acral	4WT							
+Wang et al., 2024	Case 099	Acral	4WT			F156L				
+Wang et al., 2024	Case 101	Acral	4WT							
+Wang et al., 2024	Case 102	Acral	4WT							
+Wang et al., 2024	Case 104	Acral	4WT							
+Wang et al., 2024	Case 105	Acral	4WT							
+Wang et al., 2024	Case 107	Acral	4WT			154_155del		D594N		
+Wang et al., 2024	Case 110	Acral	4WT							
+Wang et al., 2024	Case 111	Acral	4WT							A829P, A825P
+Wang et al., 2024	Case 114	Acral	4WT							
+Wang et al., 2024	Case 062	Acral	BRAF					V600E		
+Wang et al., 2024	Case 108	Acral	BRAF					V600E		
+Wang et al., 2024	Case 113	Acral	BRAF					V600E		
+Wang et al., 2024	Case 048	Acral	KIT							K642E, K638E
+Wang et al., 2024	Case 068	Acral	KIT							V654A, V650A
+Wang et al., 2024	Case 070	Acral	KIT							L576P, L572P
+Wang et al., 2024	Case 096	Acral	KIT							L576P, L572P, K642E, K638E
+Wang et al., 2024	Case 043	Acral	Multi-hit						R816X	K642E, K638E
+Wang et al., 2024	Case 050	Acral	Multi-hit						V2299fs, V2320fs	W557R, W553R
+Wang et al., 2024	Case 086	Acral	Multi-hit		Q22K	G12A		D594G		N822Y, N818Y
+Wang et al., 2024	Case 042	Acral	NF1						Q2352X, Q2373X	
+Wang et al., 2024	Case 100	Acral	NF1						C118X, N1430K, N1451K	
+Wang et al., 2024	Case 088	Acral	RAS	KRAS		G12V				
+Zhang et al., 2025	AM_050	Acral	RAS	NRAS	G12D					
+Zhang et al., 2025	AM_036	Acral	RAS	NRAS	G12D					
+Zhang et al., 2025	AM_011	Acral	RAS	NRAS	G13R					
+Zhang et al., 2025	AM_009	Acral	RAS	NRAS	Q61K					
+Zhang et al., 2025	AM_021	Acral	RAS	NRAS	Q61K					
+Zhang et al., 2025	AM_001	Acral	RAS	NRAS	Q61K					
+Zhang et al., 2025	AM_004	Acral	RAS	NRAS	Q61K					
+Zhang et al., 2025	AM_027	Acral	RAS	NRAS	Q61K					
+Zhang et al., 2025	AM_039	Acral	RAS	NRAS	Q61L					
+Zhang et al., 2025	AM_005	Acral	4WT							
+Zhang et al., 2025	AM_007	Acral	4WT						G2376R, G2397R	
+Zhang et al., 2025	AM_041	Acral	4WT							
+Zhang et al., 2025	AM_033	Acral	4WT							
+Zhang et al., 2025	AM_032	Acral	4WT							
+Zhang et al., 2025	AM_055	Acral	4WT							
+Zhang et al., 2025	AM_017	Acral	4WT							
+Zhang et al., 2025	AM_013	Acral	4WT							
+Zhang et al., 2025	AM_023	Acral	4WT							
+Zhang et al., 2025	AM_025	Acral	4WT							
+Zhang et al., 2025	AM_034	Acral	4WT							
+Zhang et al., 2025	AM_019	Acral	4WT							
+Zhang et al., 2025	AM_038	Acral	4WT							A755T, A751T
+Zhang et al., 2025	AM_045	Acral	4WT							
+Zhang et al., 2025	AM_014	Acral	4WT							
+Zhang et al., 2025	AM_047	Acral	4WT							
+Zhang et al., 2025	AM_026	Acral	4WT							
+Zhang et al., 2025	AM_008	Acral	4WT							
+Zhang et al., 2025	AM_046	Acral	4WT							
+Zhang et al., 2025	AM_054	Acral	4WT							
+Zhang et al., 2025	AM_037	Acral	4WT							
+Zhang et al., 2025	AM_024	Acral	4WT							
+Zhang et al., 2025	AM_042	Acral	4WT							
+Zhang et al., 2025	AM_015	Acral	4WT							
+Zhang et al., 2025	AM_031	Acral	4WT							
+Zhang et al., 2025	AM_018	Acral	4WT							
+Zhang et al., 2025	AM_043	Acral	4WT							
+Zhang et al., 2025	AM_035	Acral	4WT							
+Zhang et al., 2025	AM_044	Acral	4WT							
+Zhang et al., 2025	AM_020	Acral	4WT							
+Zhang et al., 2025	AM_002	Acral	BRAF		R164C			V600E		
+Zhang et al., 2025	AM_003	Acral	BRAF					V600E		
+Zhang et al., 2025	AM_029	Acral	BRAF					V600E		
+Zhang et al., 2025	AM_012	Acral	BRAF					V600E		
+Zhang et al., 2025	AM_028	Acral	BRAF					V600E		
+Zhang et al., 2025	AM_051	Acral	BRAF					V600E		
+Zhang et al., 2025	AM_006	Acral	KIT							N822K, N818K
+Zhang et al., 2025	AM_053	Acral	KIT							L576P, L572P
+Zhang et al., 2025	AM_030	Acral	NF1						F1642fs, F1663fs	
+Zhang et al., 2025	AM_049	Acral	RAS	KRAS		G12V				
+Zhang et al., 2025	AM_010	Acral	RAS	KRAS		Q61H				
+Zhang et al., 2025	AM_022	Acral	RAS	NRAS	Q61R					
+Zhang et al., 2025	AM_016	Acral	RAS	NRAS	Q61R					
+Zhang et al., 2025	AM_048	Acral	RAS	NRAS	Q61R					
+Zhang et al., 2025	AM_052	Acral	RAS	NRAS	Q61R					
