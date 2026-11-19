@@ -47,5 +47,5 @@ Rscript src/ras_pipeline.R <input> <output_dir>
 
 ## Contact
 
-<Name> — <email>
+Marcos Magalhães — marcos.magalhaes@ensino.inca.gov.br
 Patricia A. Possik Group, Instituto Nacional de Câncer (INCA)
