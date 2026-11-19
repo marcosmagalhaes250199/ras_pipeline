@@ -20,7 +20,7 @@ ras_pipeline/
 
 ## Input
 
-A tab-, comma-, semicolon- or pipe-separated table (separator detected automatically), one row per sample:
+A tab-, comma-, semicolon- or pipe-separated table, one row per sample:
 
 | Column | Content |
 | --- | --- |
