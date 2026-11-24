@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+
+.DS_Store
+Thumbs.db
+results/sessionInfo.txt
